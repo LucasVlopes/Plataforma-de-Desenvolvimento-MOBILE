@@ -21,12 +21,12 @@
  }
 
  .cabecalho-imagem{
-   height: 130px;
+  height: 160px;
  }
 
  .cabecalho-menu {
    display: flex;
-   gap: 62px;
+   gap: 202px;
  }
 
  .cabecalho-menu-item {
@@ -85,8 +85,10 @@
   background-color: rgba(11, 6, 22, 0.53);
  }
  
- .conteudo-principal-escrito-imagem {
-  height: 230px;
+ .conteudo-principal-imagem {
+  width: 485px;
+  height: 370px;
+  padding: 70px;
   }
 
  .conteudo-secundario {
@@ -94,7 +96,7 @@
   flex-direction: column;
   align-items: center;
   gap: 24px;
-  margin-top: 10px;
+  margin-top: 100px;
  }
  
  .conteudo-secundario-titulo {
